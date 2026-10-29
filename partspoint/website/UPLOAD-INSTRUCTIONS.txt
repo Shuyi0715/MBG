@@ -1,0 +1,13 @@
+PARTSPOINT WEBSITE DRAFT - IONOS UPLOAD
+
+1. Extract this ZIP on your computer.
+2. In IONOS Webspace Explorer, create a separate empty preview folder.
+3. Upload ALL extracted contents into that folder: index.html, assets/, images/, robots.txt, and .htaccess. Do not upload only the ZIP.
+4. Open that folder through your preview subdomain or its website path. This package supports both.
+
+Node.js, npm, and WordPress are NOT needed on the hosting account. index.html includes the page content; the supporting files supply styles, fonts, images, and interactions.
+
+CURRENT DRAFT LIMITATIONS
+The original website photos, verified Google review text/rating/count, business phone/address/hours, and any real stock/order integration are not yet included. The supplied logo is included with a transparent background. The owner-provided Google profile link is included. The parts enquiry only creates a copyable summary; it does not check availability, send requests, or place orders.
+
+The package has noindex metadata and search exclusions for preview use. It is publicly accessible if uploaded; search exclusions are not password protection. After the final content is approved, prepare a production package and remove the preview search exclusions deliberately.
